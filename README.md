@@ -1,4 +1,4 @@
-# Web_Management_Hotel_N10
+# Web_Management_Booking_N10
 Dự án Website quản lý đặt phòng khách sạn, căn hộ được xây dựng theo mô hình Fullstack (Node.js & React).
 
 ## 🛠 Công nghệ sử dụng
@@ -8,7 +8,7 @@ Dự án Website quản lý đặt phòng khách sạn, căn hộ được xây 
 
 ## 📂 Cấu trúc tổng thể của dự án (Root Directory)
 ```
-/Web_Management_Hotel_N10
+/Web_Management_Booking_N10
 ├── /database       # Chứa các script SQL khởi tạo và mock data
 ├── /backend        # Chứa toàn bộ mã nguồn API (Node.js)
 ├── /frontend       # Chứa toàn bộ mã nguồn giao diện (React/JS)
