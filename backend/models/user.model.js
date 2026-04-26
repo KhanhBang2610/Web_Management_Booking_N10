@@ -1,0 +1,1 @@
+// Các hàm query liên quan đến user (findById, create...).

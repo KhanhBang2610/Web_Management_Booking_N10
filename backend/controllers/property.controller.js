@@ -1,0 +1,1 @@
+// Xử lý request lấy danh sách khách sạn, tìm kiếm theo bộ lọc.

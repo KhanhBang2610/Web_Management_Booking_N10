@@ -2,7 +2,7 @@
 Dự án Website quản lý đặt phòng khách sạn, căn hộ được xây dựng theo mô hình Fullstack (Node.js & React).
 
 ## 🛠 Công nghệ sử dụng
-- **Frontend:** React, Vite, React Router DOM, Lucide React.
+- **Frontend:**
 - **Backend:** Node.js, Express, Multer (Upload file).
 - **Database:** MySQL.
 
@@ -92,3 +92,6 @@ Dự án Website quản lý đặt phòng khách sạn, căn hộ được xây 
 ```
 
 ## 🚀 Hướng dẫn cài đặt (Local Setup)
+```
+update sau
+```
