@@ -1,0 +1,1 @@
+// Trang chi tiết 1 khách sạn (Thư viện ảnh, mô tả, chọn phòng).

@@ -1,0 +1,1 @@
+// ác hàm query khách sạn, join với bảng Location/Rooms.

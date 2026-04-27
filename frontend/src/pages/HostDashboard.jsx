@@ -1,0 +1,1 @@
+// Dành cho chủ nhà quản lý phòng (đăng phòng, up ảnh).
