@@ -1,0 +1,1 @@
+// Lưu trữ tạm thời ngày đi/về, địa điểm đang tìm kiếm.

@@ -1,0 +1,1 @@
+// Hook tự viết để gọi dữ liệu và quản lý loading/error state.

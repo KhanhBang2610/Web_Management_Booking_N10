@@ -1,0 +1,1 @@
+// Bắt và trả về lỗi chuẩn hóa cho toàn bộ hệ thống.

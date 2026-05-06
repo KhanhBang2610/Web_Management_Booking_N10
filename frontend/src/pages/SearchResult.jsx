@@ -1,0 +1,1 @@
+// Trang danh sách khách sạn (kết hợp bộ lọc bên trái).

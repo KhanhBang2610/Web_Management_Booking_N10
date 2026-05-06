@@ -1,0 +1,1 @@
+// Các hàm query tạo đơn đặt phòng, cập nhật trạng thái.
