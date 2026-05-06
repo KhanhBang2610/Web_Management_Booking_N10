@@ -1,5 +1,5 @@
-# Web_Management_Booking_N10
-Dự án Website quản lý đặt phòng khách sạn, căn hộ được xây dựng theo mô hình Fullstack (Node.js & React).
+# Web_Management_Booking_N4
+Dự án Website quản lý đặt phòng khách sạn, căn hộ ở các thành phố du lịch phổ biển, được xây dựng theo mô hình Fullstack (Node.js & React).
 
 ## 🛠 Công nghệ sử dụng
 - **Frontend:**
